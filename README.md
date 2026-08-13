@@ -244,4 +244,5 @@ Full interactive docs at `http://localhost:8000/docs`.
 
 ---
 
-*Built for SOAIDEATHON-S36 · CivicTrack by Team s36*
+*Built By Yash Deo 
+Linkedin Profile : www.linkedin.com/in/yashdeo-aiml
